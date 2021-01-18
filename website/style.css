@@ -15,6 +15,7 @@ body {
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
+  max-width:100%;
 }
 
 h1 {
@@ -46,7 +47,7 @@ a {
 }
 
 div {
-	word-spacing: 20px;
+	word-spacing:20px;
 	text-align: center;
 	position: fixed;
     left: 50%;
@@ -70,4 +71,5 @@ ul li::before{
 	border-color: #CC5599;
 	border-width: 4px;
 	border-style: solid;
+	max-width:100%;
 }
