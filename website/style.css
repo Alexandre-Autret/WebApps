@@ -4,18 +4,18 @@
 }
 
 body {
-  margin-top: 144px;
-  color: #DDDDFF;
-  font-family: "outrun", "Trebuchet", cursive;
-  background-color: #000000; 
-  text-align: center;
-  list-style-position: inside;
-  background-image: url('IMAGES/outrun4.jpg');
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
-  background-size: cover;
-  max-width:100%;
+    margin-top: 144px;
+    color: #DDDDFF;
+    font-family: "outrun", "Trebuchet", cursive;
+    background-color: #000000; 
+    text-align: center;
+    list-style-position: inside;
+    background-image: url('IMAGES/background.gif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    max-width:100%;
 }
 
 h1 {
